@@ -29,5 +29,9 @@
     "tailwindcss": "^3.4.4",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "![app-demo](./src/assets/pathfinding-visualizer.gif)",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
